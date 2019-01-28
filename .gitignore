@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+*.lock
+*.ide
+*.suo
+/DependencyInjectionExample/DependencyInjectionExample/obj
+*.ide-shm
+/DependencyInjectionSimpleExample/.vs/DependencyInjectionSimpleExample/v15/Server/sqlite3/storage.ide-wal
+/DependencyInjectionSimpleExample/DependencyInjectionSimpleExample/bin/Debug/netcoreapp2.1
+/DependencyInjectionSimpleExample/DependencyInjectionSimpleExample/obj
